@@ -10,7 +10,7 @@
   , "mongodb": "3.4.4"
   }
 	
-	"script":{
+	"script"{
         "start":"node app.js"
          }
 
