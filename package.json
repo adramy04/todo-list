@@ -1,8 +1,9 @@
 {
 	"name" : "todo-list.js",
-	"version" : "0.0.1"
-
-}
-"script"{
+	"version" : "0.0.1",
+	"script":{
         "start":"node app.js"
          }
+
+
+}
