@@ -28,7 +28,7 @@
 	//フォームとリストの両方から得る
 var todoForm = document.getElementById('todo-form');
 var todoList = document.getElementById('todo-list');
-
+　　　　　//getElement以外の取得法
 var todoInput =document.querySelector('#todo-form input');
 
 //追加ボタンが押されたときの動作
